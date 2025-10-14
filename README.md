@@ -16,14 +16,20 @@
 </p>
 <hr/>
 
-<h3>🚀About Me</h3>
+<h2>🚀About Me</h2>
 <img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBybmhqdmQwM3YxbDVncmYyNmtyazVpcTVjbjVydWo0ajgzbmdwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
 <p align="left">
   <strong>Full Stack Developer</strong> & <strong>Generative AI Explorer</strong>, crafting smart tools that make a difference.
   I turn <strong>ideas into reality</strong> through intelligent code and innovation.
   Always learning, always building — exploring the intersection of <strong>code, intelligence, and creativity</strong>.
 </p>
-
+<h3>✨Current Works</h3>
+<ul>
+  <li>🧑‍💻 Working on <strong>Digital Forensic</strong> Framework: MetaData & File-System Analysis</li>
+  <li>📧 AI powered email Assistant WebApp: <Strong>MailMind.AI</Strong></li>
+  <li>💸 Startup: <strong><a href="ideocity.com">ideocity.com</a></strong> - Validate, research, and build product ideas</li>
+  <li>📚 Exploring Deep Learning, NLP & OpenCV</li>
+</ul>
 <!--
 **daxmodi1/daxmodi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
