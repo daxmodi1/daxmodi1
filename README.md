@@ -1,6 +1,11 @@
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Animated Emoji" width="50" height="50">  
+<div>
+  <h1>👋 Hi There, My name is Daxil </h1>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=22&duration=3000&pause=500&color=7F7FF7&background=FF000000&center=true&width=438&lines=Full+stack+Devloper;Genrative+AI+Expert;Knight+on+Leetcode;Deep+Learning+Explorer)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=22&duration=3000&pause=500&color=7F7FF7&background=FF000000&center=true&width=438&lines=Full+stack+Devloper;Genrative+AI+Expert;Knight+on+Leetcode;Deep+Learning+Explorer" alt="Typing SVG" /></a>
+  
+</p>
 <!--
 **daxmodi1/daxmodi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
