@@ -17,9 +17,13 @@
 <hr/>
 
 <h3>🚀About Me</h3>
-<img align="right" height="401" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBybmhqdmQwM3YxbDVncmYyNmtyazVpcTVjbjVydWo0ajgzbmdwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
-<p align="left">Full Stack Developer & Generative AI Explorer, crafting smart tools that make a difference.
-I turn ideas into reality through intelligent code and innovation.</p>
+<img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBybmhqdmQwM3YxbDVncmYyNmtyazVpcTVjbjVydWo0ajgzbmdwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+<p align="left">
+  <strong>Full Stack Developer</strong> & <strong>Generative AI Explorer</strong>, crafting smart tools that make a difference.
+  I turn <strong>ideas into reality</strong> through intelligent code and innovation.
+  Always learning, always building — exploring the intersection of <strong>code, intelligence, and creativity</strong>.
+</p>
+
 <!--
 **daxmodi1/daxmodi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
