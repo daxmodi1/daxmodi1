@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=30&duration=3000&pause=500&color=7F7FF7&background=FF000000&center=true&width=438&lines=Full+stack+Devloper;Genrative+AI+Expert;Knight+on+Leetcode;Deep+Learning+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=30&duration=3000&pause=500&color=7F7FF7&background=FF000000&center=true&width=438&lines=Full+Stack+Developer;Generative+AI+Expert;Knight+on+Leetcode;Deep+Learning+Explorer" alt="Typing SVG" />
   </a><br/>
   <a href="https://openai.com/">
     <img src="https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
@@ -17,20 +17,22 @@
 <hr/>
 
 <h2>🚀About Me</h2>
-<img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBybmhqdmQwM3YxbDVncmYyNmtyazVpcTVjbjVydWo0ajgzbmdwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+<img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBybmhqdmQwM3YxbDVncmYyNmtyazVpcTVjbjVydWo0ajgzbmdwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" />
 <p align="left">
   <strong>Full Stack Developer</strong> & <strong>Generative AI Expert</strong>, crafting smart tools that make a difference.
   I turn <strong>ideas into reality</strong> through intelligent code and innovation.
   Always learning, always building — exploring the intersection of <strong>code, intelligence, and creativity</strong>.
 </p>
+
 <h3>✨Current Works</h3>
 <ul>
   <li>🧑‍💻 Working on <strong>Digital Forensic</strong> Framework: MetaData & File-System Analysis</li>
-  <li>📧 AI powered email Assistant WebApp: <Strong>MailMind.AI</Strong></li>
+  <li>📧 AI powered email Assistant WebApp: <strong>MailMind.AI</strong></li>
   <li>💸 Startup: <strong><a href="https://www.ideocity.com">ideocity.com</a></strong> - Validate, research, and build product ideas</li>
   <li>📚 Exploring Deep Learning, NLP & OpenCV</li>
   <li>🏆 Competing in Leetcode</li>
 </ul>
+
 <h3>🏆 Achievements & Highlights</h3>
 <ul>
   <li>🏆 <strong>Knight</strong> on Leetcode</li>
@@ -67,11 +69,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-07405E?style=for-the-badge&logo=Neo4j&logoColor=white" />2
+  <img src="https://img.shields.io/badge/Neo4j-07405E?style=for-the-badge&logo=Neo4j&logoColor=white" />
 </p>
-<h3 align="center">🗄Bakend As service</h3>
+
+<h3 align="center">🗄 Backend As a Service</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
 </p>
+
+<h2>🏆 Coding Stats & Achievements</h2>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Igris12?theme=nord&font=Poppins&ext=contest)
