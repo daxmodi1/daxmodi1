@@ -19,7 +19,7 @@
 <h2>🚀About Me</h2>
 <img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBybmhqdmQwM3YxbDVncmYyNmtyazVpcTVjbjVydWo0ajgzbmdwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
 <p align="left">
-  <strong>Full Stack Developer</strong> & <strong>Generative AI Explorer</strong>, crafting smart tools that make a difference.
+  <strong>Full Stack Developer</strong> & <strong>Generative AI Expert</strong>, crafting smart tools that make a difference.
   I turn <strong>ideas into reality</strong> through intelligent code and innovation.
   Always learning, always building — exploring the intersection of <strong>code, intelligence, and creativity</strong>.
 </p>
@@ -29,18 +29,13 @@
   <li>📧 AI powered email Assistant WebApp: <Strong>MailMind.AI</Strong></li>
   <li>💸 Startup: <strong><a href="ideocity.com">ideocity.com</a></strong> - Validate, research, and build product ideas</li>
   <li>📚 Exploring Deep Learning, NLP & OpenCV</li>
+  <li>🏆 Competing in Leetcode</li>
 </ul>
-<!--
-**daxmodi1/daxmodi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🏆 Achievements & Highlights</h3>
+<ul>
+  <li>🏆 <strong>Knight</strong> on Leetcode</li>
+  <li>🎖 Solved <strong>500+</strong> Leetcode problems</li>
+  <li>🚀 Built multiple AI-powered projects</li>
+  <li>💡 Published blog posts on AI & Web Development</li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
