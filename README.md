@@ -1,7 +1,5 @@
-<div>
-  <h1>👋 Hi There, My name is Daxil </h1>
-</div>
-
+<h1>👋 Hi There, My name is Daxil </h1>
+<br/>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=30&duration=3000&pause=500&color=7F7FF7&background=FF000000&center=true&width=438&lines=Full+stack+Devloper;Genrative+AI+Expert;Knight+on+Leetcode;Deep+Learning+Explorer" alt="Typing SVG" /></a>
 </p>
