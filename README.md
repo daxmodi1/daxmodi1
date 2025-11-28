@@ -77,6 +77,6 @@
   <img src="https://img.shields.io/badge/appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
 </p>
 
-<h2>🏆 Coding Stats & Achievements</h2>
+<h2>🏆 Leetcode Stats</h2>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Igris12?theme=nord&font=Poppins&ext=contest)
