@@ -1,19 +1,4 @@
 ![Header](./readme.png)
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=30&duration=3000&pause=500&color=7F7FF7&background=FF000000&center=true&width=438&lines=Full+Stack+Developer;Generative+AI+Expert;Knight+on+Leetcode;Deep+Learning+Explorer" alt="Typing SVG" />
-  </a><br/>
-  <a href="https://openai.com/">
-    <img src="https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-  </a>
-  <a href="https://vercel.com/">
-    <img src="https://img.shields.io/badge/Full%20Stack%20Development-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Full Stack Development" />
-  </a>
-  <a href="https://www.tensorflow.org/">
-    <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
-  </a>
-</p>
-<hr/>
 
 <h2>🚀About Me</h2>
 <img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTc3aXk0d3BzaTdmdThtYmhwcnR0ZHAwaHdxZ3E2ODc5Nzkwd2tuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
