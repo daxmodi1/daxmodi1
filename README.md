@@ -10,9 +10,7 @@
 
 <h3>✨Current Works</h3>
 <ul>
-  <li>🧑‍💻 Working on <strong>Digital Forensic</strong> Framework: MetaData & File-System Analysis</li>
   <li>📧 AI powered email Assistant WebApp: <strong>MailMind.AI</strong></li>
-  <li>💸 Startup: <strong><a href="https://www.ideocity.com">ideocity.com</a></strong> - Validate, research, and build product ideas</li>
   <li>📚 Exploring Deep Learning, NLP & OpenCV</li>
   <li>🏆 Competing in Leetcode</li>
 </ul>
@@ -22,7 +20,6 @@
   <li>🏆 <strong>Knight</strong> on Leetcode</li>
   <li>🎖 Solved <strong>500+</strong> Leetcode problems</li>
   <li>🚀 Built multiple AI-powered projects</li>
-  <li>💡 Published blog posts on AI & Web Development</li>
 </ul>
 <hr/>
 
