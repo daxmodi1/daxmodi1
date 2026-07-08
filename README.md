@@ -1,5 +1,3 @@
-![Header](./readme.png)
-
 <h2>🚀About Me</h2>
 <img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTc3aXk0d3BzaTdmdThtYmhwcnR0ZHAwaHdxZ3E2ODc5Nzkwd2tuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 <p align="left">
